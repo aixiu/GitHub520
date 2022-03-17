@@ -50,13 +50,16 @@ RAW_URL = [
     "githubstatus.com",
     "github.community",
     "github.dev",
-    "media.githubusercontent.com"]
+    "collector.github.com",
+    "pipelines.actions.githubusercontent.com",
+    "media.githubusercontent.com",
+    "cloud.githubusercontent.com",
+    "objects.githubusercontent.com"]
 
 IPADDRESS_PREFIX = ".ipaddress.com"
 
 HOSTS_TEMPLATE = """# GitHub520 Host Start
 {content}
-
 # Update time: {update_time}
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
