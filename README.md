@@ -24,53 +24,53 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.113.26                 alive.github.com
-140.82.113.26                 live.github.com
-185.199.108.154               github.githubassets.com
-140.82.113.22                 central.github.com
-185.199.108.133               desktop.githubusercontent.com
-185.199.108.153               assets-cdn.github.com
-185.199.108.133               camo.githubusercontent.com
-185.199.108.133               github.map.fastly.net
-199.232.69.194                github.global.ssl.fastly.net
-140.82.113.4                  gist.github.com
-185.199.108.153               github.io
-140.82.112.4                  github.com
-192.0.66.2                    github.blog
-140.82.112.5                  api.github.com
-185.199.108.133               raw.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               avatars.githubusercontent.com
-140.82.113.10                 codeload.github.com
-52.217.134.1                  github-cloud.s3.amazonaws.com
-54.231.228.105                github-com.s3.amazonaws.com
-52.217.197.65                 github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.137.105                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.160.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.108.153               githubstatus.com
-64.71.144.211                 github.community
-40.68.78.177                  github.dev
-140.82.113.22                 collector.github.com
-13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
+52.90.147.200                 alive.github.com
+54.226.224.24                 live.github.com
+54.196.61.225                 github.githubassets.com
+107.22.40.198                 central.github.com
+3.239.22.12                   desktop.githubusercontent.com
+34.231.147.208                assets-cdn.github.com
+34.237.1.197                  camo.githubusercontent.com
+3.239.22.12                   github.map.fastly.net
+54.196.61.225                 github.global.ssl.fastly.net
+35.175.136.22                 gist.github.com
+54.91.96.124                  github.io
+44.195.79.101                 github.com
+3.236.212.178                 github.blog
+35.174.16.253                 api.github.com
+35.175.136.22                 raw.githubusercontent.com
+44.197.173.136                user-images.githubusercontent.com
+44.198.188.156                favicons.githubusercontent.com
+44.197.173.136                avatars5.githubusercontent.com
+3.237.175.76                  avatars4.githubusercontent.com
+54.164.20.248                 avatars3.githubusercontent.com
+34.237.51.20                  avatars2.githubusercontent.com
+18.207.129.69                 avatars1.githubusercontent.com
+3.89.232.74                   avatars0.githubusercontent.com
+3.236.58.159                  avatars.githubusercontent.com
+3.90.152.195                  codeload.github.com
+3.91.247.24                   github-cloud.s3.amazonaws.com
+44.199.217.2                  github-com.s3.amazonaws.com
+3.236.12.184                  github-production-release-asset-2e65be.s3.amazonaws.com
+54.165.138.126                github-production-user-asset-6210df.s3.amazonaws.com
+50.17.66.37                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+34.226.213.203                githubstatus.com
+44.192.81.79                  github.community
+34.237.51.20                  github.dev
+44.198.188.156                collector.github.com
+50.17.66.37                   pipelines.actions.githubusercontent.com
+3.236.12.184                  media.githubusercontent.com
+44.192.19.43                  cloud.githubusercontent.com
+54.166.244.78                 objects.githubusercontent.com
 
-# Update time: 2022-06-08T20:51:57+08:00
+# Update time: 2022-06-08T22:22:07+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-06-08T20:51:57+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-06-08T22:22:07+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
