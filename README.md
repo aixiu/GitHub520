@@ -27,20 +27,9 @@
 140.82.114.3                  alive.github.com
 140.82.114.3                  api.github.com
 140.82.114.3                  assets-cdn.github.com
-54.92.213.171                 avatars.githubusercontent.com
-44.213.70.40                  avatars0.githubusercontent.com
-3.239.161.238                 avatars1.githubusercontent.com
-54.166.104.12                 avatars2.githubusercontent.com
-54.198.24.223                 avatars3.githubusercontent.com
-44.202.202.230                avatars4.githubusercontent.com
-3.239.248.85                  avatars5.githubusercontent.com
-54.234.255.189                camo.githubusercontent.com
 140.82.114.3                  central.github.com
-44.199.198.232                cloud.githubusercontent.com
 140.82.114.3                  codeload.github.com
 140.82.114.3                  collector.github.com
-3.236.138.145                 desktop.githubusercontent.com
-35.168.113.193                favicons.githubusercontent.com
 140.82.114.3                  gist.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -50,26 +39,20 @@
 192.0.66.2                    github.blog
 140.82.114.3                  github.com
 140.82.112.18                 github.community
-3.236.138.145                 github.githubassets.com
 151.101.1.6                   github.global.ssl.fastly.net
 185.199.108.153               github.io
 151.101.1.6                   github.map.fastly.net
 185.199.108.153               githubstatus.com
 140.82.114.3                  live.github.com
-44.200.127.150                media.githubusercontent.com
-34.204.202.70                 objects.githubusercontent.com
-35.168.110.142                pipelines.actions.githubusercontent.com
-18.205.38.221                 raw.githubusercontent.com
-3.210.203.91                  user-images.githubusercontent.com
 
-# Update time: 2022-12-01T11:13:49+08:00
+# Update time: 2022-12-01T12:27:00+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-01T11:13:49+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-01T12:27:00+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
