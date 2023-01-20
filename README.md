@@ -24,53 +24,53 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.113.4                  alive.github.com
-140.82.113.4                  api.github.com
-140.82.113.4                  assets-cdn.github.com
-35.90.246.31                  avatars.githubusercontent.com
-54.245.209.250                avatars0.githubusercontent.com
-18.236.242.244                avatars1.githubusercontent.com
-54.245.48.231                 avatars2.githubusercontent.com
-52.10.0.181                   avatars3.githubusercontent.com
-34.213.29.203                 avatars4.githubusercontent.com
-34.214.231.226                avatars5.githubusercontent.com
-35.91.151.101                 camo.githubusercontent.com
-140.82.113.4                  central.github.com
-34.213.29.203                 cloud.githubusercontent.com
-140.82.113.4                  codeload.github.com
-140.82.113.4                  collector.github.com
-35.90.246.31                  desktop.githubusercontent.com
-34.214.231.226                favicons.githubusercontent.com
-140.82.113.4                  gist.github.com
+140.82.114.3                  alive.github.com
+140.82.114.3                  api.github.com
+140.82.114.3                  assets-cdn.github.com
+3.83.207.125                  avatars.githubusercontent.com
+50.19.36.69                   avatars0.githubusercontent.com
+34.238.255.3                  avatars1.githubusercontent.com
+3.83.207.125                  avatars2.githubusercontent.com
+18.207.195.45                 avatars3.githubusercontent.com
+18.207.195.45                 avatars4.githubusercontent.com
+54.152.89.84                  avatars5.githubusercontent.com
+44.199.252.70                 camo.githubusercontent.com
+140.82.114.3                  central.github.com
+3.239.63.210                  cloud.githubusercontent.com
+140.82.114.3                  codeload.github.com
+140.82.114.3                  collector.github.com
+18.207.195.45                 desktop.githubusercontent.com
+3.88.130.233                  favicons.githubusercontent.com
+140.82.114.3                  gist.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
-140.82.113.4                  github.com
+140.82.114.3                  github.com
 140.82.114.18                 github.community
-35.93.46.94                   github.githubassets.com
+44.204.195.56                 github.githubassets.com
 151.101.1.6                   github.global.ssl.fastly.net
 185.199.108.153               github.io
 151.101.1.6                   github.map.fastly.net
 185.199.108.153               githubstatus.com
-140.82.113.4                  live.github.com
-52.27.210.98                  media.githubusercontent.com
-35.93.54.118                  objects.githubusercontent.com
-35.90.246.31                  pipelines.actions.githubusercontent.com
-52.10.188.130                 raw.githubusercontent.com
-54.201.221.83                 user-images.githubusercontent.com
+140.82.114.3                  live.github.com
+44.200.46.71                  media.githubusercontent.com
+3.231.3.54                    objects.githubusercontent.com
+34.238.255.3                  pipelines.actions.githubusercontent.com
+44.205.0.86                   raw.githubusercontent.com
+3.83.207.125                  user-images.githubusercontent.com
 13.107.226.51                 vscode.dev
 
-# Update time: 2023-01-20T09:41:41+08:00
+# Update time: 2023-01-20T10:49:04+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-20T09:41:41+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-20T10:49:04+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
