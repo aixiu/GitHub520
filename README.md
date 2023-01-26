@@ -24,53 +24,53 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.114.3                  alive.github.com
-140.82.114.3                  api.github.com
-140.82.114.3                  assets-cdn.github.com
-3.83.160.253                  avatars.githubusercontent.com
-3.238.174.32                  avatars0.githubusercontent.com
-54.162.153.13                 avatars1.githubusercontent.com
-54.162.215.98                 avatars2.githubusercontent.com
-18.212.11.209                 avatars3.githubusercontent.com
-44.210.92.247                 avatars4.githubusercontent.com
-184.73.121.188                avatars5.githubusercontent.com
-54.226.58.78                  camo.githubusercontent.com
-140.82.114.3                  central.github.com
-54.242.189.79                 cloud.githubusercontent.com
-140.82.114.3                  codeload.github.com
-140.82.114.3                  collector.github.com
-52.90.111.80                  desktop.githubusercontent.com
-54.221.27.3                   favicons.githubusercontent.com
-140.82.114.3                  gist.github.com
+140.82.112.3                  alive.github.com
+140.82.112.3                  api.github.com
+140.82.112.3                  assets-cdn.github.com
+52.12.167.211                 avatars.githubusercontent.com
+18.236.227.72                 avatars0.githubusercontent.com
+35.92.82.165                  avatars1.githubusercontent.com
+52.36.235.10                  avatars2.githubusercontent.com
+35.89.145.49                  avatars3.githubusercontent.com
+34.219.147.179                avatars4.githubusercontent.com
+35.92.82.165                  avatars5.githubusercontent.com
+18.236.227.72                 camo.githubusercontent.com
+140.82.112.3                  central.github.com
+18.236.227.72                 cloud.githubusercontent.com
+140.82.112.3                  codeload.github.com
+140.82.112.3                  collector.github.com
+54.200.225.89                 desktop.githubusercontent.com
+54.212.158.198                favicons.githubusercontent.com
+140.82.112.3                  gist.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
+20.172.44.49                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
-140.82.114.3                  github.com
+140.82.112.3                  github.com
 140.82.113.18                 github.community
-54.237.177.246                github.githubassets.com
+54.218.68.164                 github.githubassets.com
 151.101.1.6                   github.global.ssl.fastly.net
 185.199.108.153               github.io
 151.101.1.6                   github.map.fastly.net
 185.199.108.153               githubstatus.com
-140.82.114.3                  live.github.com
-54.162.153.13                 media.githubusercontent.com
-34.234.76.141                 objects.githubusercontent.com
-44.203.96.202                 pipelines.actions.githubusercontent.com
-3.81.29.27                    raw.githubusercontent.com
-3.85.78.94                    user-images.githubusercontent.com
+140.82.112.3                  live.github.com
+35.86.109.89                  media.githubusercontent.com
+35.86.109.89                  objects.githubusercontent.com
+54.201.248.237                pipelines.actions.githubusercontent.com
+35.92.169.68                  raw.githubusercontent.com
+54.202.141.34                 user-images.githubusercontent.com
 13.107.237.51                 vscode.dev
 
-# Update time: 2023-01-27T04:19:06+08:00
+# Update time: 2023-01-27T06:18:26+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-27T04:19:06+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-27T06:18:26+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
