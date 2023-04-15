@@ -1,10 +1,12 @@
 # GitHub520 Host Start
+140.82.113.4                  alive.github.com
 140.82.113.4                  api.github.com
 140.82.113.4                  assets-cdn.github.com
 140.82.113.4                  central.github.com
 140.82.113.4                  codeload.github.com
 140.82.113.4                  collector.github.com
 140.82.113.4                  gist.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
@@ -15,10 +17,11 @@
 151.101.1.6                   github.global.ssl.fastly.net
 185.199.108.153               github.io
 151.101.1.6                   github.map.fastly.net
+185.199.108.153               githubstatus.com
 140.82.113.4                  live.github.com
 13.107.237.51                 vscode.dev
 
-# Update time: 2023-04-15T18:19:33+08:00
+# Update time: 2023-04-15T20:32:02+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
