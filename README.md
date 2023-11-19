@@ -27,9 +27,20 @@
 140.82.114.3                  alive.github.com
 140.82.114.3                  api.github.com
 140.82.114.3                  assets-cdn.github.com
+142.250.190.37                avatars.githubusercontent.com
+142.250.190.37                avatars0.githubusercontent.com
+142.250.190.37                avatars1.githubusercontent.com
+142.250.190.37                avatars2.githubusercontent.com
+142.250.190.37                avatars3.githubusercontent.com
+142.250.190.37                avatars4.githubusercontent.com
+142.250.190.37                avatars5.githubusercontent.com
+142.250.190.37                camo.githubusercontent.com
 140.82.114.3                  central.github.com
+142.250.190.37                cloud.githubusercontent.com
 140.82.114.3                  codeload.github.com
 140.82.114.3                  collector.github.com
+142.250.190.37                desktop.githubusercontent.com
+142.250.190.37                favicons.githubusercontent.com
 140.82.114.3                  gist.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -44,16 +55,21 @@
 151.101.1.6                   github.map.fastly.net
 185.199.108.153               githubstatus.com
 140.82.114.3                  live.github.com
+142.250.190.37                media.githubusercontent.com
+142.250.190.37                objects.githubusercontent.com
+142.250.190.37                pipelines.actions.githubusercontent.com
+142.250.190.37                raw.githubusercontent.com
+142.250.190.37                user-images.githubusercontent.com
 13.107.213.40                 vscode.dev
 
-# Update time: 2023-11-20T02:21:29+08:00
+# Update time: 2023-11-20T04:17:32+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-11-20T02:21:29+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-11-20T04:17:32+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
